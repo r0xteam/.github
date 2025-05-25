@@ -28,7 +28,7 @@ Our projects leverage a wide range of programming languages:
 
 | Language           | Icon |
 |--------------------|------|
-| Java               | ☕   |
+| Java               | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"   |
 | Kotlin             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="20" height="20"/> |
 | Go                 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20" height="20"/>     |
 | JavaScript (TS)    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> |
