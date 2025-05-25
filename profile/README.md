@@ -1,3 +1,4 @@
+
 # <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0reX86/c0reX86/main/r0x.png"><img src="https://raw.githubusercontent.com/c0reX86/c0reX86/main/r0x.png"></picture>
 
 ## 🚀 Welcome to the r0x team!
@@ -5,15 +6,7 @@
 This is a collaborative space for **sysadmins**, **programmers**, and **enthusiasts** to come together, create amazing projects, and share everything we build. We are passionate about technology and aim to make a significant impact. 
 
 **🔥 Soon, we will show our strength to the world! 🔥**
-# <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0reX86/c0reX86/main/r0x.png"><img src="https://raw.githubusercontent.com/c0reX86/c0reX86/main/r0x.png"></picture>
 
-## 🚀 Welcome to the r0x team!
-
-This is a collaborative space for **sysadmins**, **programmers**, and **enthusiasts** to come together, create amazing projects, and share everything we build. We are passionate about technology and aim to make a significant impact. 
-
-**🔥 Soon, we will show our strength to the world! 🔥**
-
-## 🧑‍💻 Who We Are
 ## 🧑‍💻 Who We Are
 
 Our team is a diverse group of individuals, including:
@@ -27,14 +20,13 @@ Our team is a diverse group of individuals, including:
 We believe in open collaboration and sharing knowledge to achieve common goals.
 
 ##  Our Focus
-##  Our Focus
 
 We are currently concentrating on a variety of exciting fields, including but not limited to:
 *   Minecraft (Modding, Servers, etc.)
 *   Embedded Systems
 *   And many other innovative projects!
 
-## 🛠️ Technologies We Use
+
 ## 🛠️ Technologies We Use
 
 Our projects leverage a wide range of programming languages:
@@ -54,9 +46,6 @@ We are always looking for passionate individuals to join our ranks. If you share
 
 ---
 
-<p align="center">
-  Project by <a href="https://github.com/c0rex86">c0re</a> (c0rex64.dev | c0re@valx.pw)
-</p> 
 <p align="center">
   Project by <a href="https://github.com/c0rex86">c0re</a> (c0rex64.dev | c0re@valx.pw)
 </p> 
