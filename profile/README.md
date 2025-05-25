@@ -33,7 +33,7 @@ Our projects leverage a wide range of programming languages:
 | Go                 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20" height="20"/>     |
 | JavaScript (TS)    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> |
 | C                  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20"/>       |
-| Rust               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="20" height="20"/>   |
+| Rust               | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust" width="20" height="20"/>   |
 
 ## 🤝 Join Us!
 
