@@ -1,6 +1,4 @@
 
- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c0reX86/c0reX86/main/r0x.png"><img src="https://avatars.githubusercontent.com/u/213306430?s=400&u=c685eeab5f39ec99aac35d49e96c917042ad9f2f&v=4"></picture>
-
 ## 🚀 Welcome to the r0x team!
 
 This is a collaborative space for **sysadmins**, **programmers**, and **enthusiasts** to come together, create amazing projects, and share everything we build. We are passionate about technology and aim to make a significant impact. 
